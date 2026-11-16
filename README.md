@@ -2,7 +2,7 @@
 
 Build a 2D top-down open-world browser game together.
 
-**Play it:** https://oronanschel.github.io/friends-game/ (republished from `main` after merges)
+**Play it:** https://supremeinferno.github.io/friends-game/ (republished from `main` after merges)
 
 ## Run it
 
